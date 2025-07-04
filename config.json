@@ -1,0 +1,6 @@
+{
+    "SSH_HOST": "your_ssh_server",
+    "SSH_USER": "your_ssh_user",
+    "SSH_PASSWORD": "your_ssh_password",
+    "SSH_KEY_PATH": null
+}
